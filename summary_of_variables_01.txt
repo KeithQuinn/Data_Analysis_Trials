@@ -1,0 +1,36 @@
+
+
+OD is Normally Distributed
+
+Inter Lumen Wall is not Normally Distributed
+
+OoR is Normally Distributed
+
+Balloon Lumen Height is Normally Distributed
+
+Guidewire Lumen Wall is not Normally Distributed
+
+
+
+OD is Normally Distributed
+
+Inter Lumen Wall is not Normally Distributed
+
+OoR is Normally Distributed
+
+Balloon Lumen Height is Normally Distributed
+
+Guidewire Lumen Wall is not Normally Distributed
+
+
+
+OD2 is Normally Distributed
+
+Inter Lumen Wall is Normally Distributed
+
+OoR is not Normally Distributed
+
+Balloon Lumen Height is Normally Distributed
+
+Guidewire Lumen Wall is Normally Distributed
+

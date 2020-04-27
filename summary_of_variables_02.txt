@@ -1,0 +1,19 @@
+       Lasermike O.D.  Inter Lumen Wall  Lasermike Out of Round  Balloon_Lumen_Height  Guidewire Lumen Wall
+count       38.000000         38.000000               38.000000             38.000000             38.000000
+mean         1.802963          0.116379                0.064942              0.437474              0.140368
+std          0.006837          0.002135                0.006672              0.005378              0.002390
+min          1.783100          0.112400                0.054600              0.427200              0.134800
+25%          1.798725          0.114800                0.058950              0.432900              0.138900
+50%          1.804550          0.116400                0.064300              0.438600              0.140800
+75%          1.807700          0.117900                0.072025              0.440400              0.141900
+max          1.814000          0.122000                0.075000              0.450000              0.146800
+
+OD is Normally Distributed
+
+Inter Lumen Wall is Normally Distributed
+
+OoR is not Normally Distributed
+
+Balloon Lumen Height is Normally Distributed
+
+Guidewire Lumen Wall is Normally Distributed
