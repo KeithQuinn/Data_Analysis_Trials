@@ -1,0 +1,34 @@
+
+=======================================================================================================================================
+
+Summary Data: 
+
+Part Number: 91164963-01
+Lot Number: 25440234
+
+       Lasermike O.D.  Inter Lumen Wall  Lasermike Out of Round  Balloon_Lumen_Height  Guidewire Lumen Wall       Time
+count       26.000000         26.000000               26.000000             26.000000             26.000000  26.000000
+mean         1.804873          0.117800                0.052212              0.436800              0.142215   0.592891
+std          0.008728          0.001121                0.005585              0.005375              0.003417   0.026037
+min          1.789300          0.114400                0.041000              0.428400              0.137600   0.550660
+25%          1.799350          0.117200                0.047750              0.432900              0.139600   0.571889
+50%          1.803350          0.118000                0.053650              0.437200              0.142000   0.593484
+75%          1.808500          0.118800                0.056350              0.441100              0.143900   0.614048
+max          1.826100          0.118800                0.061300              0.446000              0.152400   0.633530
+==========================================================================================================
+
+Normality Data: 
+
+Part Number: 91164963-01
+Lot Number: 25440234
+
+OD is Normally Distributed
+
+Inter Lumen Wall is not Normally Distributed
+
+OoR is Normally Distributed
+
+Balloon Lumen Height is Normally Distributed
+
+Guidewire Lumen Wall is not Normally Distributed
+
