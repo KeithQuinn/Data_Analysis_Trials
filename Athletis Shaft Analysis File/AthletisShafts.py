@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
 import seaborn as sns
+from matplotlib import style
 
 #UPN = str (input("Enter Part number: "))
 #lot = str (input("Enter lot number: "))
@@ -36,7 +37,7 @@ with open("summary_of_variables.txt", "w") as f:
     f.write("\n\n" "Summary Data: ")
     f.write("\n\n" "Part Number: ")
     f.write(part)
-    f.write("\n" "lot Number: ")
+    f.write("\n" "Lot Number: ")
     f.write(lot)
 
 summary = df.describe()
@@ -56,7 +57,7 @@ with open("summary_of_variables.txt", "a") as f:
     f.write("\n\n" "Normality Data: ")
     f.write("\n\n" "Part Number: ")
     f.write(part)
-    f.write("\n" "lot Number: ")
+    f.write("\n" "Lot Number: ")
     f.write(lot)
 
 if (NorTestOD[1]) >= 0.05:
@@ -91,6 +92,7 @@ else:
         f.write("\n\n" "Guidewire Lumen Wall is not Normally Distributed" "\n\n")
 
 #================  histograms as part of univariate analysis  ================
+style.use('seaborn')
 
 if part in val1:
   
