@@ -19,6 +19,9 @@ ti = df["Time"] * 24 # % of hour update
 lot = df["Lot"]
 part = df["Part"]
 
+print(OD)
+
+'''
 for lot in lot[:1]:
     (lot)
 lot = str(lot)
@@ -610,3 +613,4 @@ elif part in val2:
     plt.close("all")
 else:
     print("Incorrect file selected, this part number is not an Athletis catheter shaft extrusion")
+'''
