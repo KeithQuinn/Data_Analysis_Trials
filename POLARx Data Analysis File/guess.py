@@ -2,12 +2,16 @@ import pandas as pd
 
 df = pd.read_excel('for.xlsx')
 
+
 col = 8556
 
 column = []
 
 for val in range (1, 5):
     col = col + 1
+    if 
+    
+    
     nextcol = col
     column.append(col)
 
